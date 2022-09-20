@@ -4,7 +4,7 @@
 - [Status](#status)
 - [Connect](#connect)
 
-![screenshot of my landing page for the book '2149: Emergence'](./media/screenshot_landing-page.png)
+![screenshot of my landing page for the book '2149: Emergence'](./screenshot_landing-page.png)
 
 # About
 
